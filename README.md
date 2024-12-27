@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi 我劉昕 👋
 
-🚧施工中🚧
+請參考[關於我](https://shuai-xin.github.io/about/)
 
 <!--
 **Shuai-Xin/Shuai-Xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
