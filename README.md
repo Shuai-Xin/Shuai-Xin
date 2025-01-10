@@ -4,7 +4,7 @@
 
 ## Hi, I'm Shuài 👋
 
-"Shuài", pronounced 'shoo-eye' with a falling tone, means "handsome" in Chinese—which, as you can see, describes me perfectly! 😉
+"Shuài", pronounced 'shoo-eye' with a falling tone, means "handsome" in Chinese -- which, as you can see, describes me perfectly! 😉
 
 For more information, please visit [about me](https://shuai-xin.github.io/about/).
 
