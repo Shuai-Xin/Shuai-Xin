@@ -2,6 +2,12 @@
 
 請參考[關於我](https://shuai-xin.github.io/about/)
 
+## Hi, I'm Shuài 👋
+
+"Shuài," pronounced 'shoo-eye' with a falling tone, means "handsome" in Chinese—which, as you can see, describes me perfectly! 😉
+
+For more information, please visit [about me](https://shuai-xin.github.io/about/).
+
 <!--
 **Shuai-Xin/Shuai-Xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
