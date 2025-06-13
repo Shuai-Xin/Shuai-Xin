@@ -1,6 +1,6 @@
 ## Hi 我劉昕 👋
 
-請參考[關於我](https://shuai-xin.github.io/about/)
+請參考[關於我](https://shuaixin.cc/about/)
 
 ## Hi, I'm Shuài 👋
 
